@@ -1,7 +1,24 @@
-   <h1>Hi 👋, I'm Mohamed Elkashef</h1>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Github Profile</title>
+    <style>
+        img {
+            width: 45px;
+            margin-right: 15px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Hi 👋, I'm Mohamed Elkashef</h1>
     <h3>Front End developer</h3>
-     
-    <h3 align="left">Connect with me</h3>
+
+    <h3>Connect with me</h3>
     <a href="https://www.facebook.com/mohamedelkashef15" target="_blank">
         <img src="./img/facebook.png" alt="Facebook">
     </a>
@@ -27,3 +44,6 @@
 
     <h3> 👨‍💻 My Personal Website</h3>
     <a href="https://mohamedelkashef.com" target="_blank">mohamedelkashef.com</a>
+</body>
+
+</html>
